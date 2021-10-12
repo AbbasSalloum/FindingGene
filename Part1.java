@@ -1,11 +1,6 @@
 import edu.duke.*;
 import java.io.*;
-/**
- * Write a description of Part1 here.
- * Finding a Gene - Using the Simplified Algorithm
- * @author (Abbas Salloum) 
- * @version (v1)
- */
+
 public class Part1 {
      public String findGeneSimple(String dna){
         String result="";
